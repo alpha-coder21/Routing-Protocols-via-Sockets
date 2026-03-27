@@ -1,12 +1,12 @@
-# 🚀 Routing Protocols via Sockets
+#  Routing Protocols via Sockets
 
-## 📌 Project Description
+##  Project Description
 
 This project demonstrates the implementation of a **Distance Vector Routing Protocol** using Python and socket programming. It simulates how routers communicate and update routing tables to determine the shortest path between network nodes.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand routing protocols using socket programming
 * Gain practical knowledge of Distance Vector Routing
@@ -14,7 +14,7 @@ This project demonstrates the implementation of a **Distance Vector Routing Prot
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Socket Programming
@@ -22,7 +22,7 @@ This project demonstrates the implementation of a **Distance Vector Routing Prot
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```bash
 copy
@@ -34,7 +34,7 @@ pytz
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Place all source files and config files in the same folder
 
@@ -57,7 +57,7 @@ python3 file_name.py router_name port_no config_file
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 * Simulates real-world routing behavior
 * Demonstrates routing table updates
@@ -65,7 +65,7 @@ python3 file_name.py router_name port_no config_file
 
 ---
 
-## 📚 Learning Outcome
+##  Learning Outcome
 
 * Strong understanding of routing protocols
 * Hands-on experience with socket programming
