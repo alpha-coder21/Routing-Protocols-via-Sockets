@@ -1,29 +1,72 @@
-# Routing-Protocols-via-Sockets
-Implemented a Distance Vector routing protocol simulation using Python to demonstrate routing table updates and shortest path calculation between network nodes.
+# 🚀 Routing Protocols via Sockets
 
---> Objectives 
-1. To understand Routing protocols via sockets
-2. To gain exposure to a practical implementation of Distance Vector Protocol
-3. To simulate a router using software defined routing
+## 📌 Project Description
 
---> Packages required to run the program 
- import copy
- import socket
- import sys
- import datetime
- import pytz
+This project demonstrates the implementation of a **Distance Vector Routing Protocol** using Python and socket programming. It simulates how routers communicate and update routing tables to determine the shortest path between network nodes.
 
+---
 
+## 🎯 Objectives
 
---> The steps to run the program 
-1. Build the project and add source code files
-     Keep the .config file and source_code in the same folder
-2. Router  Port No
-     A      5000
-     B      5001
-     C      5002
-     D      5003
-     E      5004
-     F      5005
-2. Open 6 terminal tabs corresponding to each router
-	Run the script for each router: python3 file_name.py router_name port_no 'config_file'
+* Understand routing protocols using socket programming
+* Gain practical knowledge of Distance Vector Routing
+* Simulate router behavior using software-based networking
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* Socket Programming
+* Computer Networks Concepts
+
+---
+
+## 📦 Requirements
+
+```bash
+copy
+socket
+sys
+datetime
+pytz
+```
+
+---
+
+## ▶️ How to Run
+
+1. Place all source files and config files in the same folder
+
+2. Assign router ports:
+
+   * A → 5000
+   * B → 5001
+   * C → 5002
+   * D → 5003
+   * E → 5004
+   * F → 5005
+
+3. Open multiple terminal tabs (one for each router)
+
+4. Run the program:
+
+```bash
+python3 file_name.py router_name port_no config_file
+```
+
+---
+
+## 💡 Key Features
+
+* Simulates real-world routing behavior
+* Demonstrates routing table updates
+* Implements shortest path calculation logic
+
+---
+
+## 📚 Learning Outcome
+
+* Strong understanding of routing protocols
+* Hands-on experience with socket programming
+* Practical exposure to network simulation
